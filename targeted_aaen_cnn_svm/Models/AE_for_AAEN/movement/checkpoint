@@ -1,0 +1,6 @@
+model_checkpoint_path: "cnn_net.ckpt-4999"
+all_model_checkpoint_paths: "cnn_net.ckpt-4599"
+all_model_checkpoint_paths: "cnn_net.ckpt-4699"
+all_model_checkpoint_paths: "cnn_net.ckpt-4799"
+all_model_checkpoint_paths: "cnn_net.ckpt-4899"
+all_model_checkpoint_paths: "cnn_net.ckpt-4999"

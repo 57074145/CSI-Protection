@@ -1,0 +1,4 @@
+model_checkpoint_path: "cnn_net.ckpt-299"
+all_model_checkpoint_paths: "cnn_net.ckpt-99"
+all_model_checkpoint_paths: "cnn_net.ckpt-199"
+all_model_checkpoint_paths: "cnn_net.ckpt-299"

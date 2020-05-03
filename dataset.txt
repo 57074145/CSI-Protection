@@ -1,0 +1,11 @@
+Goal: this dataset can be used to CSI based multiple semantic
+recognition and the CSI privacy protection using AAENs.
+
+Structure: this dataset includes 34860 CSI signals of size 20*90.
+Each sample has the corresponding ground truth of indoor activity,
+identity and location.
+
+
+Data download link£ºhttps://pan.baidu.com/s/1ygzIyQuHkTIgraCHJazIaA, codes£ºet82.
+Please copy the dataset 'three_model_AAEN' into each dataset file
+in this project, and then the program can run directly.
